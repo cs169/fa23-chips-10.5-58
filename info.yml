@@ -1,0 +1,20 @@
+project:
+  name: 'CS169-fa23-58'
+  owner: 'fa23'
+  teamId: '58'
+  identities: {}
+  notifications:
+    email: 'matthewsunsailing@berkeley.edu'
+  members:
+    member1:
+      name: 'Matthew'
+      surname: 'Sun' 
+      githubUsername: 'matthewsunsails'
+    member2:
+      name: 'Lydia'
+      surname: 'Liu' 
+      githubUsername: 'Lyyyyyyyyz'
+    member3:
+      name: 'Grace'
+      surname: 'Zheng' 
+      githubUsername: 'ezheng5'
